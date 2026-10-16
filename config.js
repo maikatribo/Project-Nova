@@ -1,1 +1,1 @@
-const appMode = "development";
+const appMode = "production";
